@@ -1,0 +1,6 @@
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\bin\Debug\RockPaperScissor.Business.dll
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\bin\Debug\RockPaperScissor.Business.pdb
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\obj\Debug\RockPaperScissor.Business.csprojAssemblyReference.cache
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\obj\Debug\RockPaperScissor.Business.csproj.CoreCompileInputs.cache
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\obj\Debug\RockPaperScissor.Business.dll
+C:\Users\317911\Source\Repos\RockPaperScissorWebApp\RockPaperScissor.Business\obj\Debug\RockPaperScissor.Business.pdb
